@@ -7,4 +7,4 @@ Install Node.js.
 
 ##Running the app
 
-`node app.js`
+`npm start`
